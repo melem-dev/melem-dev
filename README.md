@@ -13,7 +13,7 @@ Mas tenho conhecimentos em outras áreas como: Python (Big Data) e Php.
 
 **E o React?**
 
-  Quando programa em PHP, ainda utilizando JQuery, sentia muita dificuldade com eventos e manipulações de estados e o DOM. Quando comecei a estudar sobre
+  Quando programei em PHP, ainda utilizando JQuery, sentia muita dificuldade com eventos e manipulações de estados e o DOM. Quando comecei a estudar sobre
   react, confesso que apanhei um pouco, pois eu sou o tipo de desenvolvedor que gosto de aprender na prática, resolvendo erro, pois essas experiências
   me possibilitam criar responsabilidades e aprendizados que serão necessários em minha carreira.
   
