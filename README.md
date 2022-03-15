@@ -30,6 +30,6 @@ Mas tenho conhecimentos em outras áreas como: Python (Big Data) e Php.
   
 **Presente**
 
-  Eu estou procurando uma oportunidade para ingressar no mercado de trabalho e aprender principalmente sobre rotinas, metodologias ágeis e gerenciamento de 
+  Estou procurando uma oportunidade para ingressar no mercado de trabalho e aprender principalmente sobre rotinas, metodologias ágeis e gerenciamento de 
   processos. Estou cursando engenharia de controle e automação na UTFPR - Curitiba, mas pretendo ir para o curso de engenharia de software.
   No momento, moro em Rio Claro - SP, mas assim como a faculdade, pretendo mudar de Estado.
